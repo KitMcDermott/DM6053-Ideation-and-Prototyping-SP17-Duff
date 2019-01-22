@@ -1,4 +1,4 @@
-# DM-GY 6053 BIdeation and Prototyping
+# DM-GY 6053-B Ideation and Prototyping
 
 Ideation and Prototyping (DM-GY 6053 B), Integrated Digital Media, Tandon School of Engineering, NYU. 
 Spring, Wednesday 6:30-9:20 PM
