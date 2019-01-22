@@ -6,4 +6,3 @@ With Kathleen McDermott, kmcdermott@nyu.edu
 
 Visit this site regularly for course updates and weekly information.
 
-Gitbook: https://deangela.gitbooks.io/dm-6053-ideation-and-prototyping-spring-2017/content/
