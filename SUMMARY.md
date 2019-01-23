@@ -5,7 +5,7 @@
 * [Schedule](schedule.md)
 * Assignments
     * [Inputs Map](input_map.md)
-    * [Constant Input Choices](constant_input_choices.md) 
+    * [Constant Input/Output](constant_inputoutput.md) 
     * [Personal Inventory](personal_inventory.md)
     * [Classmate Discovery](classmate_discovery.md)
     * [Narrative Timeline](narrative_timeline.md)
