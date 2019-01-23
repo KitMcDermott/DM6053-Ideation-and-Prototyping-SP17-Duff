@@ -20,10 +20,11 @@ If you choose this option, your task will be to create and promote a self-direct
 
 Remember, your project does not need to be digital or visual. It could be aural (including music or soundscapes), culinary, sculptural—there are a gazillion possibilities. **The main requirement is that it is a creative project.**
 
-*   Select a daily, weekly, or bi-weekly schedule and create and promote a self- or team- directed project using social media and/or analog promotional materials.
+*   1. Select a daily, weekly, or bi-weekly schedule and create and promote a self- or team- directed project using social media and/or analog promotional materials.
     *   If weekly, at least 12 times
     *   If bi-weekly, at least 6 times
-*   Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
+*   2. Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
+
 *   For further reference and inspiration regarding the constant outputs option, check out some of these projects from creators working in vastly different media::
     *   [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
     *   [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)
