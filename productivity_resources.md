@@ -1,6 +1,3 @@
-### DM-GY 6053 Ideation and Prototyping
-##### Spring 2017 • De Angela L. Duff • Mondays • 6:30-9:20pm • 2MTC MAGNET 811
-
 # TIME MANAGEMENT & PRODUCTIVITY RESOURCES 
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
