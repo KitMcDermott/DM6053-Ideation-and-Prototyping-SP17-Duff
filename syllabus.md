@@ -13,7 +13,7 @@
 This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was XXXX
 
 #### Assignments
-* [Constant Output](constant_output_choices.md)
+* [Constant Input/Output](constant_inputoutput.md)
 * [Process Website](process_website.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Reading Response](reading_responses.md)
@@ -21,7 +21,7 @@ This document may be updated to reflect changes in the course schedule and conte
 * [Input Map](input_map.md)
 * [Maker Space Training + Lasercut](lasercut.md)
 * [Classmate Discovery/Collaboration](classmate_discovery.md)
-* [Attend a lecture, talk or exhibition](attend_a_lecture.md)
+* [Attend a lecture, talk or exhibition](visit_talk_meetup.md)
 
 
 #### Projects
