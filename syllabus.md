@@ -32,8 +32,7 @@ This document may be updated to reflect changes in the course schedule and conte
 * [Turning in Assignments](turning_in_work.md)
 
 #### Labs
-* Policy on [Labs in general](labs.md)
-* Also check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
+* Lab participation is part of your participation grade. Concepts and techniques learned in labs can be applied to your assignments and projects. Check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
 
 #### Readings
 * Check the syllabus pdf and weekly posting on github for more specific break-down of what will be due the following week, including links to readings.
