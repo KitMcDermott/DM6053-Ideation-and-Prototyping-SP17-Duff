@@ -30,6 +30,7 @@ This document may be updated to reflect changes in the course schedule and conte
 
 #### Submitting Assignments
 * [Turning in Assignments](turning_in_work.md)
+* [Link to Slack](https://nyu-ideation-2019.slack.com)
 
 #### Labs
 * Lab participation is part of your participation grade. Concepts and techniques learned in labs can be applied to your assignments and projects. Check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
