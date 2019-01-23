@@ -1,6 +1,3 @@
-### DM-GY 6053 Ideation and Prototyping
-##### Spring 2017 • De Angela L. Duff • Mondays • 6:30-9:20pm • 2MTC MAGNET 811
-
 # Self Assessments
 
 Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, reflect, adjust, and do it all over again. Learning happens in a cycle.
