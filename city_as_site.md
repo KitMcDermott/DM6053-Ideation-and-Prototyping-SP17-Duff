@@ -19,7 +19,7 @@ Examples of research strategies may include:
 For more research strategy ideas, refer to Ideo's [Human-centered design guide.](https://www.ideo.com/post/design-kit) 
 You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/)
 
-#### Part 02: PROTOTYPE
+### Part 02: PROTOTYPE
 
 A. Produce a design for the site which builds on an existing landmark or infrastructure, modifying it, or allowing it to have a double function. (For example: stoplights, fire hydrants, statues, parking garages). AND/OR Imagine how the site you have chosen may be different in the future. First establish the conditions of the future (utopia/dystopia) in which the site will exist, You will be working within the limitations you have set. Projects can be political, interventionist, problem-solving, or playful. Prototypes may take the form of a rendering, model, object, photo or video, (documentation or speculative). Document your process well, and be prepared to present it, along with your finished work, in class. OR 
 
