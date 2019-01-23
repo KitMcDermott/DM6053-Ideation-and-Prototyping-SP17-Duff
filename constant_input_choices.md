@@ -23,6 +23,7 @@ Remember, your project does not need to be digital or visual. It could be aural 
 **1.** Select a daily, weekly, or bi-weekly schedule and create and promote a self- or team- directed project using social media and/or analog promotional materials.
     *   If weekly, at least 12 times
     *   If bi-weekly, at least 6 times
+    
 **2.** Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
 
 *   For further reference and inspiration regarding the constant outputs option, check out some of these projects from creators working in vastly different media::
