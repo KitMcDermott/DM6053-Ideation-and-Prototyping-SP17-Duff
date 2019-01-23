@@ -28,6 +28,8 @@ This document may be updated to reflect changes in the course schedule and conte
 * [Creative Process Presentation & Bibliography](creative_process.md)
 * [City as Site: Research and Prototype](city_as_site.md)
 
+#### Submitting Assignments
+* [Turning in Assignments](turning_in_work.md)
 
 #### Labs
 * Policy on [Labs in general](labs.md)
