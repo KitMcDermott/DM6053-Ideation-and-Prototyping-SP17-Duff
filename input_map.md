@@ -1,5 +1,3 @@
-### DM-GY 6053 Ideation and Prototyping
-##### Spring 2017 • De Angela L. Duff • Mondays • 6:30-9:20pm • 2MTC MAGNET 811
 
 # Inputs Map
 
