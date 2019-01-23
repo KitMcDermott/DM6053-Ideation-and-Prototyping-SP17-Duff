@@ -1,18 +1,14 @@
-### DM-GY 6053 Ideation and Prototyping
-##### Spring 2017 • De Angela L. Duff • Mondays • 6:30-9:20pm • 2MTC MAGNET 811
+(This assignment may be broken across a few weeks, details to follow).
 
-# Classmate Discovery
+# I. Classmate Discovery: Identify partner, ask prelimnary questions
 
-Using your classmate's 3 personal objects, input map, constant input choices assignments and social media presences, supplemented with an interview, questionnaire, or survey, **create a visual map that represents a classmates’ background, training, discipline, and personal circumstances that led them to where they are today and where they are going.** Show cross-references (when you can).
+Step 1: Pair up with someone in the class whom you haven't worked with before. Ask initial questions and write down responses. Develop questions, or a game, or some method to measure their responses. (for next week) 
 
-You pick the form or metaphor (NOT limited to): 
-* a subway map, 
-* a territory map, 
-* a thematic network, 
-* user journey map, 
-* a table of contents of a book, 
-* an index in the back of a book,
-* a menu on a webpage, 
-* a tree, 
-* etc
+# II. Inteview Your Partner and synthesize results
+
+Step 2: Interview your partner. Find out about their background, training, discipline, and the personal circumstances that led them to where they are today—and indicates where they are going. Look at the material that your classmate has posted to their process website so far, including their three personal objects, and day in the life assignment. Take a look at their social media as well. Make a portrait of your partner. This could take the form of a visual map or infographic of their interests and influences, or any other form you prefer. 
+
+# III. Collaborative Constant Input-Output
+
+Step 3: Your partner has also made a map/portrait of you. Look at your maps together. Look for points of commonality or difference. Put your normal Constant Input/Output on hold this week, and produce a collaborative post together.   
 
