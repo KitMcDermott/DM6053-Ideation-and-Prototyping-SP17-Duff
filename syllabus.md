@@ -5,7 +5,7 @@
     Kathleen McDermott • kmcdermott@nyu.edu • Spring 2019
     Wednesdays • 6:30PM-9:20PM • 2 Metrotech Center MAGNET 817 • 3 credit hrs     
 
-#### Office hours by appointment 
+#### Office hours by [appointment ](https://calendar.google.com/calendar/selfsched?sstoken=UUl6ZHRicC1jSXBVfGRlZmF1bHR8OTdkZDlmZTU0N2E4NzZiZTUxZjQ5YjgwYjg5M2NmY2Q)
 
 #### Additional Course Management Site: NYU Classes
 
