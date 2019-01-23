@@ -36,5 +36,4 @@ This document may be updated to reflect changes in the course schedule and conte
 * Also check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
 
 #### Readings
-* Information on how to access texts can be found at [readings.md](readings.md)
-* Also check the syllabus and weekly posting for more specific break-down of what will be due the following week.
+* Check the syllabus pdf and weekly posting on github for more specific break-down of what will be due the following week, including links to readings.
