@@ -1,4 +1,4 @@
-# Constant Output
+# Constant Input/Output
 
 This is an ongoing project that you will complete throughout the semester. It is an important part of the course that will challenge you to improve your creative process. You will present initial ideas for what you may want to do, and your first project "entry" in the second class. You __must document your creative process on a website or blog, that you set-up for this class.__ For more information on possible options for setting up your website, visit the [process website page](process_website.md)
 
