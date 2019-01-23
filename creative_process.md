@@ -1,23 +1,20 @@
-# Creative Process Presentation & Bibliography 
+# Creative Process Presentation, Bibliography and Creative Work
 
-Research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your choice. Present this research in a 10 minute Powerpoint or video, with citations of at least 10 separate sources throughout. *At least five of the sources must be academic (books, journal articles, museum catalogs)* Cite your sources throughout your presentation and also turn in a bibliography online in NYU Classes. Use [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
-
+### Part01: 
+Research, analyze, evaluate, and communicate the research & design *processes* of a creator from a discipline of your choice. Present this research in a 10 minute Powerpoint or video, with citations of at least 10 separate sources throughout. *At least five of the sources must be academic (books, journal articles, museum catalogs)* Cite your sources throughout your presentation and also turn in a bibliography online in NYU Classes. Use [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
 The process presentation will reveal the discoveries you made about your subject, as well as how these discoveries will inform or have informed your own creative processes.
 
+**Possible Choices \(but not limited to\):**
 
-### Possible Choices \(but not limited to\):
-
-* Jon Bellion - Kevin
 * Sarah Blakely \(Spanx\)
 * Richard Branson
 * John Cage
-* Coco Chanel - Val 
-* Suzanne Collins - Claudia 
+* Coco Chanel 
 * Kyle Cooper
-* Thomas Edison - Zheng
+* Thomas Edison 
 * Albert Einstein
-* Leonardo Da Vinci - Alex
-* Salvador Dali - Kyle
+* Leonardo Da Vinci 
+* Salvador Dali 
 * Charles Darwin
 * Walt Disney
 * Charles & Ray Eames
@@ -26,19 +23,18 @@ The process presentation will reveal the discoveries you made about your subject
 * Benjamin Franklin
 * Art Fry \(Post-It Note\)
 * Bill Gates
-* Juanjo Guarnido - Mayda 
+* Juanjo Guarnido 
 * Alfred Hitchcock
 * Jonathan Ive
-* Frida Kahlo - Julia 
-* Yayoi Kusama - Harrison
-* Hideo Kojima - Jenny 
-* Koji Kondo- Alejandra 
-* Steve Jobs - Calvin 
+* Frida Kahlo 
+* Yayoi Kusama
+* Hideo Kojima 
+* Koji Kondo
 * Sal Khan \(Khan Academy\)
 * Stephen King 
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
 * David Lynch
-* Hayao Miyazaki -Sahana
+* Hayao Miyazaki
 * Christopher Nolan 
 * Gordon Parks
 * Philippe Petit
@@ -47,10 +43,9 @@ The process presentation will reveal the discoveries you made about your subject
 * Robert Rodriguez
 * Mike Rottenberg 
 * Paula Scher
-* David Shrigley - Haixin
+* David Shrigley 
 * Twyla Tharp
-* Christina Tosi - Kim 
-
+* Christina Tosi 
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give you insights into the research and design processes of your subject.
 
@@ -66,5 +61,13 @@ You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu
 
 [Google Scholar](https://scholar.google.com/) is another good starting point, if you find an interesting article or book that it is behind a paywall, try searching for the title in the NYU library.  
 
+**Part 01 Due date:**
+
+
+### Part 02
+
+Making something using the *process* (this may or may not relate to style) of the creator of your choice. If they are a designer, this may mean applying their method to a design problem. If they are another type of creative, the result may be a more artistic output. Document yourself following their process and post it to your website. Also post an image or link to the final creative output. Final formats may include: video, photo, prototype, 2-D artwork, audio, documentation of site-specific work or a performance. Final format may *not* include: a powerpoint presentation. If you have an idea for a final format not listed her, please speak with me. 
+
+**Part 02 Due date:**
 
 
