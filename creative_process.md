@@ -1,7 +1,7 @@
 # Creative Process Presentation, Bibliography and Creative Work
 
 ### Part01: 
-Research, analyze, evaluate, and communicate the research & design *processes* of a creator from a discipline of your choice. Present this research in a 10 minute Powerpoint or video, with citations of at least 10 separate sources throughout. *At least five of the sources must be academic (books, journal articles, museum catalogs)* Cite your sources throughout your presentation and also turn in a bibliography online in NYU Classes. Use [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
+Research, analyze, evaluate, and communicate the research & design *processes* of a creator from a discipline of your choice. Present this research in a 10 minute Powerpoint or video, with citations of at least 10 separate sources throughout. *At least five of the sources must be academic (books, journal articles, museum catalogs)* Cite your sources throughout your presentation and also post a bibliography to your website. Use [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
 The process presentation will reveal the discoveries you made about your subject, as well as how these discoveries will inform or have informed your own creative processes.
 
 **Possible Choices \(but not limited to\):**
