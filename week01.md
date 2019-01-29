@@ -11,4 +11,4 @@
 * Surrealist drawing warm-up/getting to know you exercises 
 
 
-DUE NEXT WEEK: Process website set-up, be prepared to present constant outut idea, show sketchbook. Post reading response to website and be prepared to discuss in class.  
+DUE NEXT WEEK: Process website set-up, be prepared to present constant outut idea, show sketchbook. Post reading response to "Design for The Real World" (pdf link coming soon) to website and be prepared to discuss in class.  
