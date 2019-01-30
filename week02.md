@@ -18,4 +18,5 @@ DUE NEXT WEEK:
 * Complete [personal inventory](personal_inventory.md) and [input map](input_map.md) and post website. 
 * Choose a person to focus on for [project 1.](creative_process.md) 
 * Makerspace training due by 02/27.
+* Continue working on [Input/Output (Assignment 01),](constant_inputoutput.md) 
 
