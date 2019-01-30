@@ -20,12 +20,6 @@ You have several options:
 
 #### Wordpress Group Registration
 
-If you don’t already have server space, please attend one of the group registrations for sites.bxmc.poly.edu with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883. 
-UPDATE: Elton has requested to contact him through the form on this page http://bxmc.poly.edu/techsupport/?page_id=67 to set-up server space 
+New Server Accounts and Wordpress sites for students at faculty can be applied for at: 
+http://bxmc.poly.edu/techsupport/?page_id=67 
 
-Group registration for IDM server accounts TBD.
-
-Please remember to bring your laptop with you when you visit a session.
-
-If you choose wordpress on bxmc.poly.edu, set up your class website at
-  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
