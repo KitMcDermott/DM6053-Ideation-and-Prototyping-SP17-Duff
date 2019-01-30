@@ -2,7 +2,7 @@
 
 * [Getting to know you survey](https://goo.gl/forms/4Xoo47ttpoBEYem52)
 
-* [Speaker Suggestions](https://docs.google.com/document/d/1MwrpIoY_TCnqgh-2PP6vFRTG6vmwM7D7OVHf4ZRQHQ0/edit?usp=sharing)
+* [Colloquium Speaker Suggestions](https://docs.google.com/document/d/1MwrpIoY_TCnqgh-2PP6vFRTG6vmwM7D7OVHf4ZRQHQ0/edit?usp=sharing)
 * Course overview, read-through syllabus 
 
 * Introducton to Constant Input/Output assignment, Sketchbook assignment and website requirement
