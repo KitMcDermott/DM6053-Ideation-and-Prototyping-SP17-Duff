@@ -63,13 +63,13 @@ You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu
 
 [Google Scholar](https://scholar.google.com/) is another good starting point, if you find an interesting article or book that it is behind a paywall, try searching for the title in the NYU library.  
 
-**Part 01 Due date:**
+**Part 01 Due date: 02/20**
 
 
 ### Part 02
 
 Making something using the *process* (this may or may not relate to style) of the creator of your choice. If they are a designer, this may mean applying their method to a design problem. If they are another type of creative, the result may be a more artistic output. Document yourself following their process and post it to your website. Also post an image or link to the final creative output. Final formats may include: video, photo, prototype, 2-D artwork, audio, documentation of site-specific work or a performance. Final format may *not* include: a powerpoint presentation. If you have an idea for a final format not listed here, please speak with me. 
 
-**Part 02 Due date:**
+**Part 02 Due date: 03/06**
 
 
