@@ -5,9 +5,9 @@
 * [Colloquium Speaker Suggestions](https://docs.google.com/document/d/1MwrpIoY_TCnqgh-2PP6vFRTG6vmwM7D7OVHf4ZRQHQ0/edit?usp=sharing)
 * Course overview, read-through syllabus 
 
-* Introducton to Constant Input/Output assignment, Sketchbook assignment and website requirement
+* Introducton to [Constant Input/Output](constant_inputoutput.md) assignment, [Sketchbook](notebook_or_sketchbook.md) assignment and [website requirement](process_website.md)
 
-* Distribution of required reading
+* Distribution of [required reading](readings.md)
 
 * Surrealist drawing warm-up/getting to know you exercises 
 
