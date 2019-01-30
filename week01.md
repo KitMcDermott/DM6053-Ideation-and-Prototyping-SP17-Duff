@@ -3,7 +3,7 @@
 * [Getting to know you survey](https://goo.gl/forms/4Xoo47ttpoBEYem52)
 
 * [Colloquium Speaker Suggestions](https://docs.google.com/document/d/1MwrpIoY_TCnqgh-2PP6vFRTG6vmwM7D7OVHf4ZRQHQ0/edit?usp=sharing)
-* Course overview, read-through syllabus 
+* Course overview, read-through [syllabus](https://drive.google.com/file/d/1LK90DDU4XbVnZwo_csd_jYqpnR6QBWYm/view?usp=sharing) 
 
 * Introducton to [Constant Input/Output](constant_inputoutput.md) assignment, [Sketchbook](notebook_or_sketchbook.md) assignment and [website requirement](process_website.md)
 
