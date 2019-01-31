@@ -11,5 +11,15 @@
 
 * Surrealist drawing warm-up/getting to know you exercises 
 
+### Links to Slides (use your NYU email to access)
 
-DUE NEXT WEEK: Process website set-up, be prepared to present constant outut idea, show sketchbook. Post reading response to ["Design for The Real World"](https://drive.google.com/open?id=1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb) to website and be prepared to discuss in class.  
+* intro to [Ideation and Prototyping](https://docs.google.com/presentation/d/1xnn1HyF2itAXpZmDMafjtq32GuBJ7HIbYbOwk9zcxDU/edit?usp=sharing)
+* [sketchbook and constant output examples and links ](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit?usp=sharing)
+
+
+#### DUE NEXT WEEK: 
+
+* Process website set-up
+* be prepared to present constant outut idea and first post 
+* show sketchbook. 
+* Post reading response to ["Design for The Real World"](https://drive.google.com/open?id=1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb) to website and be prepared to discuss in class. (use your NYU email to access)
