@@ -1,7 +1,7 @@
 # Week 02
 
 /ITERATION/
-* Present [Input/Output (Assignment 01),](constant_inputoutput.md) show sketchbook
+* Present [Input/Output (Assignment 01),](constant_inputoutput.md) show sketchbook (both via your process website)
 
 /RESEARCH/
 * Discussion of required reading 
