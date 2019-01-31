@@ -10,7 +10,7 @@
 
 * Distribution of [required reading](readings.md)
 
-* Surrealist drawing warm-up/getting to know you exercises 
+* Surrealist drawing warm-up/getting to know you exercises <-- moved to next week
 
 ### Links to Slides (use your NYU email to access)
 
