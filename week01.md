@@ -21,6 +21,6 @@
 #### DUE NEXT WEEK: 
 
 * [Process website](process_website.md) set-up
-* be prepared to present [constant outut](constant_inputoutput) idea and first post 
+* be prepared to present [constant output](constant_inputoutput.md) idea and first post 
 * show [sketchbook.](notebook_or_sketchbook.md) 
 * Post reading response to ["Design for The Real World"](https://drive.google.com/open?id=1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb) to website and be prepared to discuss in class. (use your NYU email to access)
