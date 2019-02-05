@@ -1,5 +1,9 @@
 # Week 02
 
+
+/PROTOTYPING/
+* *NEW* [Makerspace training](http://vgb1.hosting.nyu.edu/) @ 6:30, please be on time.
+
 /ITERATION/
 * Present [Input/Output (Assignment 01),](constant_inputoutput.md) show sketchbook (both via your process website)
 
@@ -7,11 +11,11 @@
 * Discussion of required reading 
 
 /INSPIRATION/
-* Introduction to freewriting and brainstorming exercises
-* Begin Input map, possible Photoshop lab
-* Pending time: Everything is a remix series
-
 * Introduction to [assignment 5: personal inventory](personal_inventory.md) and [assignment 6: input map](input_map.md), and [Project 01.](creative_process.md) 
+Pending time:
+* Introduction to freewriting and brainstorming exercises
+* Begin Input map
+* Everything is a remix series
 
 DUE NEXT WEEK: 
 * Complete reading: [Design of Everyday Things Ch. 6](https://getit.library.nyu.edu/go/9468608), and post response to website. 
