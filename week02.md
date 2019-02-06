@@ -18,7 +18,7 @@ Pending time:
 * Everything is a remix series
 
 DUE NEXT WEEK: 
-* Complete reading: [Design of Everyday Things Ch. 6](https://getit.library.nyu.edu/go/9468608), and post response to website. 
+* Complete reading: [Design of Everyday Things Ch. 6](https://drive.google.com/file/d/1xCeq74PZyiEm1Zyq3qS_HpTDgOjwoZYu/view?usp=sharing), and post response to website. 
 * Complete [personal inventory](personal_inventory.md) and [input map](input_map.md) and post website. 
 * Choose a person to focus on for [project 1.](creative_process.md) 
 * Makerspace training due by 02/27.
