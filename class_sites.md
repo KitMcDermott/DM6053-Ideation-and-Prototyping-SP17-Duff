@@ -1,5 +1,10 @@
 # Process Websites For Everyone in the Class
 
+* [Kyla](https://www.kylaqi.com/ideation-prototpye/)
+* [Dana](https://dodecahedron-ferret-jkg5.squarespace.com/media/)
+* [Elizabeth](http://sites.bxmc.poly.edu/~elizabethbetts/dm6053/) 
+* [Yutong](https://wp.nyu.edu/amberideationprototype/constant-input-output/)
+* [Tianyao](https://www.tianyaodai.com/)
 * [Mia](https://miawav.tumblr.com/)
 * [James](https://pneumatikoi.tumblr.com/)
 * [Omar](https://omardelarosa.com/process/)
