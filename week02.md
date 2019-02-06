@@ -8,7 +8,7 @@
 * Present [Input/Output (Assignment 01),](constant_inputoutput.md) show sketchbook (both via your process website)
 
 /RESEARCH/
-* Discussion of required reading 
+* Discussion of required reading [slides (NYU only)](https://docs.google.com/presentation/d/1zh6kZnwivRU8b7YqxYYEQ4Cq6IBgN7gWvsZ43cfaP4w/edit?usp=sharing) 
 
 /INSPIRATION/
 * Introduction to [assignment 5: personal inventory](personal_inventory.md) and [assignment 6: input map](input_map.md), and [Project 01.](creative_process.md) 
