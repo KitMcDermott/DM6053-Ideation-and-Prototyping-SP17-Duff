@@ -9,4 +9,5 @@ Links to readings will be posted to weekly break-down and will also be posted he
 2. Donald A. Norman, The Design of Everyday Things, (New York: Doubleday), 1988.
 available through [NYU libraries:](https://getit.library.nyu.edu/go/9468608) as a pdf.
 Chapter 6: Design Thinking 
+Also available for download through [NYU Google Drive.](https://drive.google.com/file/d/1xCeq74PZyiEm1Zyq3qS_HpTDgOjwoZYu/view?usp=sharing) 
 
