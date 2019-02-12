@@ -8,6 +8,7 @@
 * LAB: Illustrator crash course, Patent Drawings + Introduction to [Assign 07: Lasercut and Maker Space Training](lasercut.md)
 * Patent sites: https://patents.google.com/, http://patft.uspto.gov/, https://patentscope.wipo.int/search/en/search.jsf, https://worldwide.espacenet.com/?locale=en_EP 
 
+![alt text](https://github.com/KitMcDermott/DM6053-Ideation-and-Prototyping-SP19-McDermott/blob/master/scamper.png "Scamper")
 
 DUE NEXT WEEK:
 * PROJECT 01 [CREATIVE PROCESS PRESENTATION: Part 1](creative_process.md) Due 02/20
