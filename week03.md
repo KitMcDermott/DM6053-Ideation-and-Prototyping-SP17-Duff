@@ -8,6 +8,7 @@
 * Discuss requirements for [Project 01 ](creative_process.md) and [Project 02](city_as_site.md)
 * LAB: Illustrator crash course, Patent Drawings + Introduction to [Assign 07: Lasercut and Maker Space Training](lasercut.md)
 * Patent sites: https://patents.google.com/, http://patft.uspto.gov/, https://patentscope.wipo.int/search/en/search.jsf, https://worldwide.espacenet.com/?locale=en_EP 
+* Bézier Game: https://bezier.method.ac/
 
 ![alt text](https://github.com/KitMcDermott/DM6053-Ideation-and-Prototyping-SP19-McDermott/blob/master/scamper.png "Scamper")
 
