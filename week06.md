@@ -5,7 +5,7 @@
 * Discuss Reading (IDEO and Toaster Project)
 
 /Research/Iteration/Prototyping/
-* Introduce Project 2
+* Introduce [Project 2](city_as_site.md)
 * Part 2: of Design Research Lecture 
 
 /Prototyping/
@@ -15,6 +15,6 @@ DUE NEXT WEEK:
 * Prepare for mid-point check-ins, keep [Input/Output (Assignment 01),](constant_inputoutput.md) up to date  
 * Keep sketchbook log updated
 * Begin thinking about Project 2 (use sketchbook!)
-* Part 1 of Assignment 08 [Classmate Discovery](classmate_discovery)
+* Part 1 of Assignment 08 [Classmate Discovery](classmate_discovery.md)
 * Keep in mind Assignment 09 [Talk or Meet-up](visit_talk_meetup.md) due by end of semester. (Grad colloquium counts!) 
 
