@@ -5,7 +5,7 @@
 
 /Research/Iteration/Prototyping/
 * Discuss Reading
-* Design Research Presentation (time pending)
+* [Design Research Presentation Link to Slides, NYU only](https://docs.google.com/presentation/d/1-kZOg-LWfYuki_4Uls9NHIGsNzR6PNITiMiiBMnLWC8/edit?usp=sharing)
 * Toaster Project video (time pending)
 
 DUE NEXT WEEK:
