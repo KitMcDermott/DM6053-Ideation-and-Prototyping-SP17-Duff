@@ -8,7 +8,7 @@
 * Part 2: of Design Research Lecture 
 
 /Prototyping/
-* LAB: Make teams for classmate portrait 
+* LAB: Make teams for [classmate portrait ](classmate_discovery.md)
 
 DUE NEXT WEEK:
 * Prepare for mid-point check-ins, keep [Input/Output (Assignment 01),](constant_inputoutput.md) up to date  
