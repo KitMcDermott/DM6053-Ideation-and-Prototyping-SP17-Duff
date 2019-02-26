@@ -1,4 +1,4 @@
-# Week 6
+# Week 6 03/06
 
 /Research/Iteration/Prototyping/
 * PRESENT [Creative Process Part 2](creative_process.md)
