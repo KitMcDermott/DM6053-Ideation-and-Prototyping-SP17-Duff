@@ -2,7 +2,6 @@
 
 /Research/Iteration/Prototyping/
 * PRESENT [Creative Process Part 2](creative_process.md)
-* Discuss Reading (IDEO and Toaster Project)
 
 /Research/Iteration/Prototyping/
 * Introduce [Project 2](city_as_site.md)
@@ -14,7 +13,8 @@
 DUE NEXT WEEK:
 * Prepare for mid-point check-ins, keep [Input/Output (Assignment 01),](constant_inputoutput.md) up to date  
 * Keep sketchbook log updated
-* Begin thinking about Project 2 (use sketchbook!)
-* Part 1 of Assignment 08 [Classmate Discovery](classmate_discovery.md)
-* Keep in mind Assignment 09 [Talk or Meet-up](visit_talk_meetup.md) due by end of semester. (Grad colloquium counts!) 
+* Begin thinking about Project 2 (use sketchbook! we will discuss next week)
+* Part 1 of Assignment 08 [Classmate Discovery](classmate_discovery.md) Prepare questions/method of interview)
+* Read chapter 4 of [Design Activism.](https://drive.google.com/file/d/1uEY0Yyy1gyc-1jXy_iNnqD05Hq_hSo0L/view?usp=sharing) In your reading response, please note a project that interested you. (they give many examples).
+
 
