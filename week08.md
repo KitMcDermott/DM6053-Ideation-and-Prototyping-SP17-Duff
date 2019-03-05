@@ -3,7 +3,7 @@
 /Research/Iteration/Prototyping/
 * Present [Classmate Discovery](classmate_discovery.md) (collaborative output)
 
-*Lecture: Design Research Part 2
+* Lecture: Design Research Part 2
 * Quick Check-in, Project 2 progress. (small groups)
 
 LAB:
