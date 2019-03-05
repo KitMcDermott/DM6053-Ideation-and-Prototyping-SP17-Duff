@@ -6,7 +6,7 @@
 /Research/Iteration/Prototyping/
 * Introduce [Project 2](city_as_site.md)
 * LAB: Physical Computing Basics: Rube Goldberg Machines, bring in some junk you'd like to repurpose
-~~* Part 2: of Design Research Lecture ~~
+~~* Part 2: of Design Research Lecture~~
 
 /Prototyping/
 * LAB: Make teams for [classmate portrait ](classmate_discovery.md)
