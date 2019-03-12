@@ -5,6 +5,7 @@
 
 LAB:
 * Part 2: [Classmate Discovery](classmate_discovery.md) 
+* Complete [Mid-term Survey](https://goo.gl/forms/1FOODEDHTUaZaPV82)
 * One-on-one check-ins. 
 
 DUE NEXT WEEK:
