@@ -1,17 +1,16 @@
-# Week 8 -03/27
+# Week 9 -03/27
 
 /Research/Iteration/Prototyping/
-* Present [Classmate Discovery](classmate_discovery.md) (collaborative output)
+* Present Assign 08: [Classmate Discovery](classmate_discovery.md) (collaborative output)
 
-* Lecture: Design Research Part 2
-* Quick Check-in, Project 2 progress. (small groups)
-
+/Research/Prototyping/
 LAB:
-* Introduction to User-Play testing
+* Piezo elements, contact microphones and field recordings. 
 
 
 DUE NEXT WEEK:
-* Part I [City as Site](city_as_site.md), presentation on research next week! 
+* REQ Reading: Read and respond to article of your choice, related to your Project 2 research. Post on site. 
+* Part I [Project 2: City as Site](city_as_site.md), presentation on research 04/10! 
 * keep [Input/Output (Assignment 01),](constant_inputoutput.md) up to date  
 * Keep sketchbook log updated
 * Keep in mind Assignment 09 [Talk or Meet-up](visit_talk_meetup.md) due by end of semester. (Grad colloquium counts!)
