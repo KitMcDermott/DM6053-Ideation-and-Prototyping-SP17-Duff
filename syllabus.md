@@ -9,8 +9,8 @@
 
 #### Additional Course Management Site: NYU Classes
 
-#### [Link to full Syllabus PDF](https://drive.google.com/file/d/1LK90DDU4XbVnZwo_csd_jYqpnR6QBWYm/view?usp=sharing)
-This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was XXXX
+#### [Link to full Syllabus PDF](https://drive.google.com/file/d/1zBgAojeCP8LdpBM2GPS_gPXrK_VsOrzt/view?usp=sharing)
+This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was March 13th, 2019**
 
 #### Assignments
 * [Constant Input/Output](constant_inputoutput.md)
