@@ -5,7 +5,7 @@
 
 LAB:
 * Part 2: [Classmate Discovery](classmate_discovery.md) 
-  Some example which may be helpful: 
+  Some examples which may be helpful: 
     * [Julia's portrait of Alex](https://wp.nyu.edu/julia3dmodels/2018/10/31/classmate-discovery-part-2/)
       * [Their collaborative post](https://www.youtube.com/watch?v=I2Crq_EecTg) 
     * [Alejandra's portrait of Harrison, which led to a collaborative post](https://wp.nyu.edu/alejvillanueva/classmate-discovery-harrison/)
