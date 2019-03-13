@@ -2,6 +2,7 @@
 
 /Research/Iteration/Prototyping/
 * Discuss Reading (Design Activism)
+* syllabus update 
 
 LAB:
 * Part 2: [Classmate Discovery](classmate_discovery.md) 
