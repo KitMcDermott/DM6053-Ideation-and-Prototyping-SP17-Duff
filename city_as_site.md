@@ -27,7 +27,10 @@ B.Build and test models of solutions of the problems explored with your local co
 
 
 ### Part 03: PROTOTYPE MORE
-Based on feedback, repeat/refine Part 02, to produce a final prototype. Prototype should show significant growth from the check-in phase. Your project's final form can include renderings, models, photos, videos, a website etc., but **it must include a physical mock-up of some kind.** Document your process well, and be prepared to present it, along with your finished work, in class. Turn in short (500 words) write-up at time of project due date explaining your process and reflecting on result. 
+Based on feedback, repeat/refine Part 02, to produce a final prototype. Prototype should show significant growth from the check-in phase. Your project's final form can include renderings, models, photos, videos, a website etc., but **it must include a physical mock-up of some kind.** Document your process well, and be prepared to present it, along with your finished work, in class. 
+
+Turn in short (500 words) write-up during the reading period explaining your process and reflecting on result. 
+Also turn in exhibition-ready documentation; Video, photo, or other format that feels appropriate. We will discuss documentation expectations in class, 04/10. 
 
 Examples/Inspiration:
 * [Michael Rakowitz paraSITE](http://www.michaelrakowitz.com/parasite/)
