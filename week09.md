@@ -5,7 +5,7 @@
 
 /Research/Prototyping/
 LAB:
-* Piezo elements, contact microphones and field recordings. 
+* Piezo elements, contact microphones and field recordings. [Slides](https://docs.google.com/presentation/d/1VT_Q3HQsMwSCNFpf19KNtZBbpVUvbHgCPsNizOGO75A/edit?usp=sharing)  
 
 
 DUE NEXT WEEK:
