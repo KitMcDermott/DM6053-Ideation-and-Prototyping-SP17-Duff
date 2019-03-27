@@ -1,5 +1,7 @@
 # Week 9 -03/27
 
+* Annoucement from IDM Show Committee 
+
 /Research/Iteration/Prototyping/
 * Present Assign 08: [Classmate Discovery](classmate_discovery.md) (collaborative output)
 
