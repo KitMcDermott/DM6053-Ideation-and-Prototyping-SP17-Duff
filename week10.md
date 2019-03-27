@@ -2,7 +2,7 @@
 
 /Research/Iteration/Prototyping/
 * Lecture: Design Research Part 2
-* Quick Check-in, Project 2 progress. (small groups
+* Quick Check-in, Project 2 progress. (small groups)
 
 lecture + LAB:
 * Phasing and planning projects
