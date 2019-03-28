@@ -1,17 +1,11 @@
 # Week 11 -04/10
 
-
-CONTACT MIC LAB PART II:
-* mini amp circuit
-* soldering
-* using heat shrink and plasti-dip to make a more finished project. 
-
 /Research/
-* Present Part I of [Project 2: City as Site](city_as_site.md)
+* Present: Part I of [Project 2: City as Site](city_as_site.md)
 
 /Iteration/Prototyping/
-* Lecture: Design Research Part 2
-* Phasing and Planning Projects 
+* Lecture: Design Research Part 2 (if not done)
+* Phasing and Planning Projects, 10 + 10 exercise  
 
 
 DUE NEXT WEEK:
