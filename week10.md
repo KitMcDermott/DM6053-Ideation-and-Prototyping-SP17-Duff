@@ -3,7 +3,7 @@
 /Prototyping/ 
 
 CONTACT MIC LAB PART II:
-* mini amp circuit
+* [mini amp circuit](https://docs.google.com/presentation/d/1VT_Q3HQsMwSCNFpf19KNtZBbpVUvbHgCPsNizOGO75A/edit?usp=sharing) (added to last week's slides)
 * soldering
 * using heat shrink and plasti-dip to make a more finished project. 
 
