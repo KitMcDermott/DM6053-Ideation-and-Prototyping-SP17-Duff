@@ -9,7 +9,7 @@
 
 
 DUE NEXT WEEK:
-* REQ READING: Speculative Everything, Chapters 1 and 2 (Pages 1-31). 200 word response to NYU classes. (due 04/17):
+* REQ READING: Speculative Everything, Chapters 1 and 2 (Pages 1-31). 200 word response on website (due 04/17):
   * You can access the reading as [a PDF here](https://drive.google.com/open?id=1UgeACzw1-rFpvam_mqtDrqICy6HSVydA)
   * You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) 
 * REQ VIEWING choose a film from the list to watch and write a 200 word response to (due 04/17): 
