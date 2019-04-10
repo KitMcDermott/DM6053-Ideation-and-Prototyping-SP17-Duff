@@ -4,7 +4,7 @@
 * Present: Part I of [Project 2: City as Site](city_as_site.md)
 
 /Iteration/Prototyping/
-* Lecture: Design Research Part 2 (if not done)
+* Lecture: [Design Research Part 2](https://docs.google.com/presentation/d/1Th1rqvcV9UcW-3oMBZrE5iQjybsqyXxg_M8a0benmro/edit?usp=sharing) (NYU Only)
 * Phasing and Planning Projects, 10 + 10 exercise  
 
 
