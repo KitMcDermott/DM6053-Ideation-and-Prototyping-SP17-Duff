@@ -5,7 +5,7 @@ Inspiration/Research/
 * Lecture: Speculative Design 
 
 Iteration/Prototyping:
-* LAB: Speculative Thought Experiments
+* LAB: [Speculative Thought Experiments](https://docs.google.com/document/d/1Cmp9fCJfs7IruMmfCCSGjnQCDOE6C3bD5BO93v6DU9g/edit)
 * Lecture: Editing basics 
 * Storyboard, shot for shot remake. 
 
