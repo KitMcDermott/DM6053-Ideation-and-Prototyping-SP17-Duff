@@ -12,3 +12,5 @@ Iteration/Prototyping:
 
 DUE NEXT WEEK:
 * First prototype for [Project 2](city_as_site.md) Due!
+* Prepare prototype for playtesting
+* Bring supplies for video experiment, if necessary 
