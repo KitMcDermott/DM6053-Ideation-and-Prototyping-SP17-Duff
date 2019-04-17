@@ -7,7 +7,7 @@ Iteration:
 * Constant Ouput final presentation 
 
 Prototyping:
-* LAB: User testing and feedback 
+* User testing and small group feedback 
 
 
 DUE NEXT WEEK:
