@@ -2,10 +2,11 @@
 
 Inspiration/Research/
 * Discuss Assigned Readings/Viewings 
-* Lecture: Speculative Design + Editing basics 
+* Lecture: Speculative Design 
 
 Iteration/Prototyping:
 * LAB: Speculative Thought Experiments
+* Lecture: Editing basics 
 * Storyboard, shot for shot remake. 
 
 
