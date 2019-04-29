@@ -10,5 +10,5 @@ Inspiration/Prototyping:
 
 DUE NEXT WEEK:
 * Work on final iteration of prototype [Project 2](city_as_site.md) Due 05/08 (last class)
-* Share video experiments next week
+* ~~Share video experiments next week~~
 * Constant Output Final Presentation next week. 
