@@ -8,5 +8,5 @@ LAST CLASS!
 
 DUE BY 05/12
 
-* Final project write-up and documentation due 05/12 (5 page paper explaining process and reflecting on results)
+* Final project write-up and documentation due 05/12 (5 page paper explaining process and reflecting on results) Email me directly. 
 * Respond to [lecture, talk meet-up](visit_talk_meetup.md) by 05/12  
