@@ -3,6 +3,8 @@
 LAST CLASS!
 
 * Final iteration of prototype [Project 2](city_as_site.md) Due 05/08 
+* show videos
+* course evaluations 
 
 DUE BY 05/12
 
