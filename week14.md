@@ -5,7 +5,7 @@ Iteration:
 * Constant Ouput final presentation 
 
 WRAPUP:
-* final deck
+* [final deck](https://docs.google.com/presentation/d/1xHLW_uusm9RzCBOy9Yc-LxN5Mj80Uu6gZynTCVDLDRU/edit#slide=id.g35f391192_00)
 
 Prototyping:
 * User testing and small group feedback 
